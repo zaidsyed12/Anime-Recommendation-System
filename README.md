@@ -13,6 +13,6 @@ Exploratory Data Analysis (EDA): Understand trends and data distribution.
 
 Data Cleaning: Handle missing values and prepare data for analysis.
 
-Similarity Calculation: Compute similarities for content-based recommendations.
+Similarity Calculation: Compute similarities.
 
 Recommendation Functions: Generate personalized anime recommendations.
