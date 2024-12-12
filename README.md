@@ -1,5 +1,6 @@
 Made an Anime Recommendation System using the dataset:
 https://www.kaggle.com/datasets/CooperUnion/anime-recommendations-database
+
 This repository contains two Jupyter notebooks that implement different approaches to building an Anime Recommendation System:
 
 Anime Collaborative Filtering (RS_Project_Anime_Collaborative.ipynb): A user-based collaborative filtering-based recommendation system using user-item interaction data.
